@@ -30,7 +30,7 @@
   "license": "MIT",
   "gypfile": true,
   "engines": {
-    "node": ">=12.11 <13.11",
+    "node": ">=12.11",
     "npm": ">=6.11"
   },
   "author": {
